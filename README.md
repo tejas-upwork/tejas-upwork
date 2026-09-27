@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Tejas 👋
 
-<!--
-**tejas-upwork/tejas-upwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web Developer** — Responsive Sites, Chrome Extensions & AI Chatbots (Pune, India)
 
-Here are some ideas to get you started:
+📰 I run **TechNova Daily** — practical tech guides on AI, coding, cybersecurity & how-tos, updated daily:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉 **[TechNova Daily](https://technovadailyusa.blogspot.com)**
+
+### Projects
+- [Kahwa House](https://github.com/tejas-upwork/kahwa-house) — landing page
+- [Tab Tidy](https://github.com/tejas-upwork/tab-tidy) — Chrome extension (Manifest V3)
+- [Video Voiceover Tool](https://github.com/tejas-upwork/video-voiceover-tool) — voiceover + watermark + metadata strip
+- [Video Downloader](https://github.com/tejas-upwork/video-downloader) — yt-dlp wrapper
